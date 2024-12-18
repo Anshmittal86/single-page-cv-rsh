@@ -30,7 +30,7 @@ You can view the live project here:
 
    - Clone the project using Git:
      ```bash
-     git clone https://github.com/yourusername/single-page-cv.git
+     git clone https://github.com/Anshmittal86/single-page-cv-rsh.git
      ```
    - Or download the ZIP file from the repository and extract it.
 
